@@ -5,7 +5,7 @@
 ### After killing them they drop money and with that money you can purchase different types of turrets
  
 
-There are 4 different types of turrets: 
+There are 6 different types of turrets: 
  
 1) Flame Tower
 2) Balista Tower
