@@ -1,8 +1,8 @@
 # DefenceRunnerV0.2
 
-# This is a Base Defense game
-# You need to kill the enemies that come as waves.
-# After killing them they drop money and with that money you can purchase different types of turrets
+### This is a Base Defense game
+### You need to kill the enemies that come as waves.
+### After killing them they drop money and with that money you can purchase different types of turrets
  
 
 There are 4 different types of turrets: 
